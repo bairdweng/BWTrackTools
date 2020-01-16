@@ -1,10 +1,11 @@
+ 
 use_frameworks!
 
 platform :ios, '8.0'
 
 target 'BWTrackTools_Example' do
   pod 'BWTrackTools', :path => '../'
-
+  pod 'Masonry'
   target 'BWTrackTools_Tests' do
     inherit! :search_paths
 

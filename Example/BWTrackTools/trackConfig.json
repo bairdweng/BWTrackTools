@@ -1,0 +1,27 @@
+{
+    "pages":[
+        {
+            "pageName":"TestViewController1",
+            "params":{}
+        },
+        {
+            "pageName":"TestViewController2",
+            "params":{}
+        }
+    ],
+    "eventList":[
+        {
+            "className":"TestViewController1",
+            "events":[
+                {
+                    "methodName":"clickOntheBtn",
+                    "params":{}
+                },
+                {
+                    "methodName":"clickOntheBtnWithParams:",
+                    "params":{"test":"testParams"}
+                }
+            ]
+        }
+    ]
+}
