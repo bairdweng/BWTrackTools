@@ -1,0 +1,23 @@
+PODS:
+  - BWTrackTools (0.1.0)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - BWTrackTools (from `../`)
+  - Masonry
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  BWTrackTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BWTrackTools: 44c03c0e861746350ff0c0e0a7b978aba3f0acb0
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: 0d228e05dbc7386388f7a094b44cac16171d7987
+
+COCOAPODS: 1.8.4
